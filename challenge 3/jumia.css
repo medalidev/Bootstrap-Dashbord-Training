@@ -1,0 +1,20 @@
+.r{
+    color: white;
+    font-weight: 500;
+}
+.btn{
+    background-color: #F49027;
+    margin-left: 7px;
+}
+.bi{
+    margin-top: 22px;
+    margin-left: 20px;
+}
+#t{
+    width: 400px;
+    margin-left: 65px;
+}
+.active{
+    margin-top: 15px;
+}
+

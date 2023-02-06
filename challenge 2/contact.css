@@ -1,0 +1,9 @@
+.ob{
+    position: relative;
+}
+.est{
+    color: red;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
